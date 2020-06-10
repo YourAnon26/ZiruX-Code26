@@ -15,6 +15,7 @@
   Sin TOR:
 * `python3 code26.py -t www.ejemplo.com`
 * `python3 code26.py -t www.ejemplo.com -p 80 -c 50 -m get`
+
   Con TOR:
 * `python3 code26.py -t www.ejemplo.com -T`
 * `python3 code26.py -t www.ejemplo.com -p 80 -c 50 -m get -T`
