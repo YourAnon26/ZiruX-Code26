@@ -163,8 +163,17 @@ def dos3():
 
 def usage():
 	print (Fore.WHITE + Style.BRIGHT + '''\n Code26 para Python 3.x
-	Su uso es con Fines Educativos.
-	Testeador de strees para servidores. \n
+           $$$$$$$$\ $$\                     $$\   $$\ 
+           \____$$  |\__|                    $$ |  $$ |
+              $$  / $$\  $$$$$$\  $$\   $$\ \$$\ $$  |
+             $$  /  $$ |$$  __$$\ $$ |  $$ | \$$$$  / 
+            $$  /   $$ |$$ |  \__|$$ |  $$ | $$  $$<  
+           $$  /    $$ |$$ |      $$ |  $$ |$$  /\$$\ 
+           $$$$$$$$\ $$ |$$ |      \$$$$$$  |$$ /  $$ |
+           \________|\__|\__|       \______/ \__|  \__|
+                                           	
+        Su uso es con Fines Educativos.\n
+	 
 	uso : python3 code26.py [-t] Web/Ip [-p] [-c] [-m] [-T]\n
 	-h : Ayuda
 	-t : Web o IP
